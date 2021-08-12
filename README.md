@@ -1,4 +1,4 @@
-##School Management System
+School Management System
 **MERN Project**
 
 This is a simple school management portal that registers a student and displays the details of the student in a table on the webpage.
